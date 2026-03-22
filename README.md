@@ -1,125 +1,114 @@
-# Hi there, I'm Shanthosh K V 👋
+# Shanthosh K V — Aerospace Engineer & Computational Designer
 
-## 🚀 About Me
+Final-year Aerospace Engineering student at RV College of Engineering, Bengaluru. My work sits at the intersection of liquid propulsion, turbomachinery design, and high-fidelity simulation — from sizing injector arrays for liquid rocket engines to building ML-based combustion diagnostics at IIST Thiruvananthapuram.
 
-I'm an Aerospace Engineering student, passionate about **Space Engineering**, **Nuclear Physics**, and **Astrophysics**. I enjoy turning complex engineering problems into innovative solutions through design and analysis.
+I approach engineering from first principles. If I am designing a turbopump or writing a CFD pre-processing tool, the standard I hold myself to is the same: analytically rigorous, practically deployable, and documented well enough that someone else can build on it.
 
-My goal is to contribute to cutting-edge aerospace technologies and make designs that are both functional and groundbreaking. I focus on bringing technical excellence to every project while ensuring the end result is impactful and forward-thinking.
+---
 
-## 🎯 Current Projects
+## What I Work On
 
-- **Turbine and compressor** - Design and simulation
-- **Coaxial Swirl Injector** - Design and simulation
+**Propulsion & Turbomachinery**Liquid rocket engine design — injectors, turbopumps, cooling systems, and combustion chambers. Currently working on coaxial bi-swirl injector analysis and turbine stage design at BOCK SPACE.
 
-## 🛠️ Skills & Expertise
+**Computational Fluid Dynamics**CFD simulation and post-processing for nozzle flows, boundary layers, and combustion chambers. I also build tooling around CFD workflows — automated meshing pipelines, wall-resolution calculators, and solver setup utilities.
 
-### Programming Languages
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+**Applied AI for Engineering**RAG systems, LLM fine-tuning pipelines, and ML-based diagnostics for technical domains. Most of my AI work is built to solve specific engineering problems, not as standalone applications.
 
-### CAD & Simulation Tools
-- **Design**: SolidWorks, CATIA, Fusion 360, CFTurbo
-- **Analysis**: ANSYS, ParaView
-- **Specialized**: OpenRocket, CFD Analysis
-- **Mission Analysis Tools**: STK
+---
 
-### Technical Specializations
-- Propulsion Systems Design
-- Rocket Engine Development
-- Ion Propulsion Systems
-- Aerospace Component Analysis
-- Structural Engineering
+## Selected Projects
 
-## 🚀 Featured Projects
+Project
 
-### 🔥 Rocket Engine Designs
-Comprehensive designs for liquid rocket engines featuring:
-- Thrust chamber optimization
-- Turbopump and injector design
-- Advanced cooling system analysis
-- Performance optimization studies
+Domain
 
-**Technologies**: SolidWorks, ANSYS, CFD Analysis, MATLAB
+Status
 
-### ⚡ Ionic Propulsion System
-Research and development of ion propulsion systems for spacecraft:
-- Efficiency optimization algorithms
-- Implementation of advanced thruster configurations
-- Performance analysis and testing protocols
-- Theoretical framework development
+[Y+ CFD Mesh Calculator](https://aboutkvs.vercel.app/yplus_calculator.html)
 
-**Technologies**: MATLAB, CFTurbo, Advanced Simulation Tools
+CFD / Pre-processing
 
-### 📐 CAD Models & Simulations Portfolio
-Comprehensive collection of:
-- Detailed aerospace components
-- Propulsion systems modeling
-- Structural analysis projects
-- Engineering simulations
+Live
 
-**Tools Used**: SolidWorks, ANSYS, Fusion 360, ParaView, HyperMesh
+[AI Research Paper Downloader](https://aboutkvs.vercel.app/airpd.html)
 
-## 🎓 Education
+Applied AI
 
-### RV College of Engineering (Current)
-**B.E. in Aerospace Engineering**
-- Pursuing cutting-edge aerospace technologies and engineering principles
-- Focus on aerodynamics and propulsion systems
-- Active in research and development projects
+Live
 
-### Presidency School Bangalore South
-**Higher Secondary Education (Science Stream)**
-- Physics, Chemistry, and Mathematics
-- Strong analytical and problem-solving foundation
+[LLM Fine-Tuning Dataset Pipeline](https://aboutkvs.vercel.app/pipeline_v3_airpd_theme.html)
 
-### Mitra Academy
-**Primary and Secondary Education**
-- Academic excellence with strong extracurricular participation
-- Early development of passion for sciences
+AI / NLP
 
-## 📜 Certifications
+Live
 
-- **STK Level 1** – Official certificate from AGI
+[PDF Summariser & RAG Chatbot](https://aboutkvs.vercel.app/stem_rag_airpd_theme.html)
 
-## 🏅 Competitions Attended
+Applied AI
 
-- **Vyoma Design-a-athon** – 1st Runner up - worked on completely designing a disaster relief module.
-- **HAL Aerothon** - Worked on designing a fuel injection system for a turboshaft engine, focused more on fuel tanks, cavitation prevention and fuel atomization using air blast atomizers.
+Live
 
+[Ionic Propulsion System](https://aboutkvs.vercel.app/ionic_propulsion.html)
 
-## 🏆 Achievements & Experience
+Aerospace
 
-### Academic Excellence
-- Pursuing B.E. Aerospace Engineering at prestigious RV College of Engineering
-- Strong foundation in advanced mathematics and physics
-- Specialized coursework in propulsion systems and aerodynamics
+Live
 
-### Technical Expertise
-- Proficient in industry-standard CAD and simulation software
-- Experience with professional-level rocket engine design
-- Advanced knowledge in ion propulsion technology
-- Skilled in complex data analysis and visualization
+Two-Stage Centrifugal Turbopump (100 kg/s, 175 bar, 35,000 RPM)
 
-### Research & Development
-- Independent research on ionic propulsion systems
-- Comprehensive liquid rocket engine design projects
-- Advanced cooling system analysis and optimization
-- Performance studies for aerospace applications
+Propulsion / CAD
 
-## 🌐 Connect with Me
+Portfolio
 
-- 🌍 **Portfolio**: [aboutkvs.vercel.app](https://aboutkvs.vercel.app/)
-- 💼 **LinkedIn**: [Connect with me](www.linkedin.com/in/shanthoshkv)
-- 📧 **Email**: shanthoshkv@gmail.com
+Gas Generator Turbine (36,000 RPM, Ni superalloy)
 
-## 🔭 Completed Projects
+Turbomachinery
 
-- Ion thruster
-- Turbopump
+Portfolio
 
-## 💡 Fun Facts
+5-Stage Axial Turbine (676.78 MW, 25,000 RPM)
 
-- 🌌 Passionate about astrophysics and space exploration
-- 🚀 Dream of contributing to next-generation spacecraft propulsion
-- 📚 Always learning about cutting-edge aerospace technologies
-- 🔬 Fascinated by the intersection of nuclear physics and space engineering
+Turbomachinery
+
+Portfolio
+
+CubeSat Constellation for Microplastic Detection
+
+Space / ML
+
+Portfolio
+
+ANSA Automated Hex Meshing Pipeline (>98% hex quality)
+
+CFD / Python
+
+Portfolio
+
+---
+
+## Tools & Stack
+
+```
+Propulsion Design  →  SolidWorks · CATIA · Fusion 360 · CFTurboSimulation         →  ANSYS Fluent · HyperMesh · ANSA · ParaView · OpenRocketProgramming        →  Python · MATLABAI / ML            →  LangChain · Ollama · ChromaDB · HuggingFaceMission Analysis   →  STK (AGI Level 1 Certified)
+```
+
+---
+
+## Experience
+
+**Research Intern — IIST Thiruvananthapuram** *(Jul – Oct 2025)*ML model for species concentration in combustion flames via TDLAS · Fuel-air mixing parametric study using PLMS · Experimental laser sheet design and high-speed imaging
+
+**Liquid Rocket Engine Design Intern — BOCK SPACE** *(Dec 2024 – Dec 2025)*Regenerative cooling · CFD for nozzle and chamber flows · Turbomachinery design · Coaxial bi-swirl injector analysis
+
+---
+
+## Competitions
+
+-   **Vyoma Design-a-thon** — 1st Runner-Up · Complete design of a disaster relief air-drop module
+-   **HAL Aerothon** — Fuel injection system design for a turboshaft engine; focused on cavitation prevention and air-blast atomisation
+
+---
+
+## Portfolio & Contact
+
+🌐 [aboutkvs.vercel.app](https://aboutkvs.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/shanthoshkv) · 🤗 [HuggingFace](https://huggingface.co/sandysanta/datasets) · 📧 [shanthoshkv@gmail.com](mailto:shanthoshkv@gmail.com)
